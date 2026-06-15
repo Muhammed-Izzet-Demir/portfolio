@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9bf3d0b7.css",
-    "main.js": "/portfolio/static/js/main.4ac1fc7b.js",
+    "main.js": "/portfolio/static/js/main.d68bed27.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/emotion.png": "/portfolio/static/media/emotion.04f51dcf83fb20447590.png",
@@ -9,7 +9,7 @@
     "static/media/chatify.png": "/portfolio/static/media/chatify.64febb7b5c767cf9f667.png",
     "static/media/ml.png": "/portfolio/static/media/ml.97828da164ebc6bafc71.png",
     "static/media/leaf.png": "/portfolio/static/media/leaf.5f3744a356b35a650e52.png",
-    "static/media/Muhammed_izzet_DEMİR_CV.pdf": "/portfolio/static/media/Muhammed_izzet_DEMİR_CV.30980172d4505028966b.pdf",
+    "static/media/Muhammed_izzet_DEMİR_CV_2.pdf": "/portfolio/static/media/Muhammed_izzet_DEMİR_CV_2.02e9fcc17632ec08cb87.pdf",
     "static/media/avatar.png": "/portfolio/static/media/avatar.61426b7644e14a96a20d.png",
     "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.ccc061bf33bb1040bd10.png",
     "static/media/multicamera-system.jpg": "/portfolio/static/media/multicamera-system.dc1a111cced739ce60b1.jpg",
@@ -28,12 +28,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.9bf3d0b7.css.map": "/portfolio/static/css/main.9bf3d0b7.css.map",
-    "main.4ac1fc7b.js.map": "/portfolio/static/js/main.4ac1fc7b.js.map",
+    "main.d68bed27.js.map": "/portfolio/static/js/main.d68bed27.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bf3d0b7.css",
-    "static/js/main.4ac1fc7b.js"
+    "static/js/main.d68bed27.js"
   ]
 }
