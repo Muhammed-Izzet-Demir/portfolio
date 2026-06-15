@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9bf3d0b7.css",
+    "main.js": "/portfolio/static/js/main.4ac1fc7b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.04f51dcf83fb20447590.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.351cec3fbf562233cf16.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.64febb7b5c767cf9f667.png",
+    "static/media/ml.png": "/portfolio/static/media/ml.97828da164ebc6bafc71.png",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.5f3744a356b35a650e52.png",
+    "static/media/Muhammed_izzet_DEMİR_CV.pdf": "/portfolio/static/media/Muhammed_izzet_DEMİR_CV.30980172d4505028966b.pdf",
+    "static/media/avatar.png": "/portfolio/static/media/avatar.61426b7644e14a96a20d.png",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.ccc061bf33bb1040bd10.png",
+    "static/media/multicamera-system.jpg": "/portfolio/static/media/multicamera-system.dc1a111cced739ce60b1.jpg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/agricultural-dashboard.jpg": "/portfolio/static/media/agricultural-dashboard.b6f2b18323070e26e9d9.jpg",
+    "static/media/mobile-biometric.jpg": "/portfolio/static/media/mobile-biometric.a9894184bc290b3e9158.jpg",
+    "static/media/biometric-platform.jpg": "/portfolio/static/media/biometric-platform.9d101119f688441aa01a.jpg",
+    "static/media/personnel-tracking.jpg": "/portfolio/static/media/personnel-tracking.0a994ec84411a85c9479.jpg",
+    "static/media/face-recognition-sdk.jpg": "/portfolio/static/media/face-recognition-sdk.2c29b713d283ceedb78a.jpg",
+    "static/media/defense-surveillance.jpg": "/portfolio/static/media/defense-surveillance.6f0cb0f35991815cf01b.jpg",
+    "static/media/logo.png": "/portfolio/static/media/logo.78a5921b19f3380d5e7e.png",
+    "static/media/mobile-tech.jpg": "/portfolio/static/media/mobile-tech.963999bf00d318fbec82.jpg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/face-api.jpg": "/portfolio/static/media/face-api.154bf5b6de5d8e227977.jpg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.9bf3d0b7.css.map": "/portfolio/static/css/main.9bf3d0b7.css.map",
+    "main.4ac1fc7b.js.map": "/portfolio/static/js/main.4ac1fc7b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf3d0b7.css",
+    "static/js/main.4ac1fc7b.js"
+  ]
+}
